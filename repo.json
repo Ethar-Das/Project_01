@@ -4,15 +4,15 @@
   "providers": [
     {
       "name": "Cinefreak",
-      "file": "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/Cinefreak.cs3.json"
+      "file": "https://raw.githubusercontent.com/Ether-Das/Project_01/main/Cinefreak.cs3.json"
     },
     {
-      "name": "BanglaPlex", 
-      "file": "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/BanglaPlex.cs3.json"
+      "name": "BanglaPlex",
+      "file": "https://raw.githubusercontent.com/Ether-Das/Project_01/main/BanglaPlex.cs3.json"
     },
     {
       "name": "Fibwatch",
-      "file": "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/Fibwatch.cs3.json"
+      "file": "https://raw.githubusercontent.com/Ether-Das/Project_01/main/Fibwatch.cs3.json"
     }
   ]
 }
