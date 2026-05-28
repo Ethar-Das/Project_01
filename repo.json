@@ -2,8 +2,8 @@
   "name": "My 3 Sites",
   "description": "Cinefreak, BanglaPlex, Fibwatch",
   "providers": [
-    "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/BanglaPlex.cs3",
     "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/Cinefreak.cs3",
+    "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/BanglaPlex.cs3",
     "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/Fibwatch.cs3"
   ]
 }
