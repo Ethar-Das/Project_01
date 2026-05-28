@@ -1,18 +1,9 @@
 {
-    "name": "Project_01",
-    "description": "Cinefreak, BanglaPlex, Fibwatch",
-    "providers": [
-    {
-    "name": "Cinefreak",
-    "file": "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/Cinefreak.cs3.json"
-    },
-    {
-    "name": "BanglaPlex",
-    "file": "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/BanglaPlex.cs3.json"
-    },
-    {
-    "name": "Fibwatch",
-    "file": "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/Fibwatch.cs3.json"
-    }
-    ]
+  "name": "My 3 Sites",
+  "description": "Cinefreak, BanglaPlex, Fibwatch",
+  "providers": [
+    "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/BanglaPlex.cs3",
+    "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/Cinefreak.cs3",
+    "https://raw.githubusercontent.com/Ethar-Das/Project_01/main/Fibwatch.cs3"
+  ]
 }
